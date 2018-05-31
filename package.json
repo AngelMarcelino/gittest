@@ -1,0 +1,19 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "git test",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack-cli": "^2.1.4",
+    "webpack": "^4.10.2"
+  }
+}
